@@ -1,5 +1,19 @@
-Flask
-pandas
-scikit-learn
 sklearn
-psycopg2 gunicorn
+ pytz
+tzdata 
+threadpoolctl
+six
+numpy
+MarkupSafe
+joblib 
+itsdangerous
+colorama
+blinker
+Werkzeug
+scipy
+python-dateutil
+Jinja2
+click
+scikit-learn
+pandas
+ Flask
