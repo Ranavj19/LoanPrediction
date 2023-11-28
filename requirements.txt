@@ -16,4 +16,5 @@ Jinja2
 click
 scikit-learn
 pandas
- Flask
+Flask
+gunicorn
