@@ -2,4 +2,4 @@ Flask
 pandas
 scikit-learn
 sklearn
- pip3 install psycopg2 gunicorn && pip3 freeze > requirements.txt
+pip3 install psycopg2 gunicorn && pip3 freeze > requirements.txt
